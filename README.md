@@ -32,9 +32,3 @@ Next, we’ll dive into the cleaned tweets, visualizing and analyzing the text t
 
 ### Conclusion  
 In this article, we walked through the process of tackling a sentiment analysis problem. We started by preprocessing and exploring the data, followed by extracting features with BoW and TF-IDF. Finally, we built models to classify the sentiment of the tweets.
-
-Did you find this article helpful? Do you have any additional tips or methods? Feel free to share your thoughts and experiences in the comments!
-
---- 
-
-This version is more concise and improves flow, making it easier to follow the narrative while maintaining the technical depth.
